@@ -1,5 +1,3 @@
-package pkg9a.pixel.digger;
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.MouseInfo;
